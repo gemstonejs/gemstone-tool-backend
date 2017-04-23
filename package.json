@@ -33,6 +33,9 @@
     "peerDependencies": {
         "gemstone-tool":                    "~0.9.9"
     },
+    "engines": {
+        "node":                             ">=7.6.0"
+    },
     "scripts": {
         "prepublish": "eslint --config eslint.yaml gemstone-tool-backend.js"
     },
