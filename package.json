@@ -31,7 +31,7 @@
     "dependencies": {
     },
     "peerDependencies": {
-        "gemstone-tool":                    "~0.9.25"
+        "gemstone-tool":                    "~0.9.26"
     },
     "engines": {
         "node":                             ">=7.6.0"
