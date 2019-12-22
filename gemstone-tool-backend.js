@@ -38,7 +38,7 @@ module.exports = function () {
 
             /*  display header  */
             const header = `${chalk.bold("** Gemstone Backend Build Tool " + pkg.version)}\n` +
-                "** Copyright (c) 2016-2018 Gemstone Project <http://gemstonejs.com>\n" +
+                "** Copyright (c) 2016-2019 Gemstone Project <http://gemstonejs.com>\n" +
                 "** Licensed under Apache License 2.0 <https://spdx.org/licenses/Apache-2.0>\n" +
                 "\n"
             process.stderr.write(header)
